@@ -11,3 +11,4 @@ def send_notif(email, content):
     except Exception as e:
         print("Error, email was not sent")
         print(e)
+
